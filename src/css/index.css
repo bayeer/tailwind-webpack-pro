@@ -1,0 +1,7 @@
+@import 'tailwind/base.css';
+@import 'tailwind/components.css';
+@import 'tailwind/utilities.css';
+
+body {
+    font-size: 1rem;
+}
