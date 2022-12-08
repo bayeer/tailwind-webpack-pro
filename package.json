@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "watch": "export NODE_ENV=development && node bin/serve.js",
+    "dev": "export NODE_ENV=development && node bin/serve.js",
     "build": "export NODE_ENV=production && webpack"
   },
   "keywords": [],
